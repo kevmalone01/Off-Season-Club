@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+qa-desktop.png
+qa-mobile.png
